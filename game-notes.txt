@@ -1,0 +1,6 @@
+maka a block move left an dright on a flat surface. when player presses a move left. When player presses d move right. block will spawn a y 25 and x 20
+'When the person presses the space button on the keyboard make a progectile that moves fast and make it 2 pixel by 2 pixel.'
+makes another red block that stands in one place. Then when the player shoots the red block make the red block disapear.
+Tell me the code to insert a background for a 2d videogame.
+I want to add a second image within the foreground that would be the ground for the block. The block should start on the y cordinateof the ground.
+Tell me how to turn the blue block into a png file.
